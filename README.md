@@ -1,4 +1,7 @@
 # 24F3100098 - CS1102 Linux Lab
+### 🛠️ Recent Update
+
+This update was made in the `bio-update` branch as part of a Git lab exercise.
 
 ## 👋 About Me
 
